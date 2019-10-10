@@ -39,8 +39,12 @@ public class Main  {
         if (80 > number && number > 70){
             System.out.println("not positive");
         }
-        if (90)
-
+        if (90 > number && number > 80) {
+            System.out.println("Good job");
+            
+        if (100 > number && number > 90) {
+            System.out.println("not sure");
+        }
 
 
 
